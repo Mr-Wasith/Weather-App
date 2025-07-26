@@ -10,7 +10,7 @@ A beautiful, responsive weather application built with HTML, CSS, and JavaScript
 - Sunrise/sunset times
 
 ## 🚀 Live Demo
-[View Live App](https://realtime-weather-data.netlify.app/))
+[View Live App](https://realtime-weather-data.netlify.app/)
 
 ## 🛠️ Technologies Used
 - HTML5
